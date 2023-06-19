@@ -2,9 +2,6 @@
 # Machine Learning-based Clinical Decision Support System for Predicting and Enhancing Guideline Adherence in Breast cancer patients
 
 
-The following outlines how to set-up and use the Clinical Decision Support System (CDSS) developed as well as providing an overview of the submitted code.
-
-
 ## CDSS - Guideline Adherence
 
 The CDSS uses Docker Compose to deploy an application consisting of three services: `app`, `db`, and `predictive_model`
