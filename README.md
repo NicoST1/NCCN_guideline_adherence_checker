@@ -1,5 +1,5 @@
 
-# Development and Evaluation of a Machine Learning-based Clinical Decision Support System for Predicting and Enhancing Guideline Adherence in Breast cancer patients
+# Machine Learning-based Clinical Decision Support System for Predicting and Enhancing Guideline Adherence in Breast cancer patients
 
 
 The following outlines how to set-up and use the Clinical Decision Support System (CDSS) developed as well as providing an overview of the submitted code.
