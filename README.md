@@ -32,7 +32,7 @@ The CDSS uses Docker Compose to deploy an application consisting of three servic
 5. **Navigate to the project directory in the terminal:**
    - Use the `cd` command followed by the path to the project folder. For example:
      ```
-     cd C:\Users\username\Downloads\adherence_cdss
+     cd /path/to/adherence_cdss
      ```
 
 6. **Run the Docker Compose command:**
